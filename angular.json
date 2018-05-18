@@ -25,7 +25,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [],
+            "lazyModules": [
+              "src/app/lazy/lazy.module"
+            ]
           },
           "configurations": {
             "production": {
